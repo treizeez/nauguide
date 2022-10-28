@@ -1,0 +1,41 @@
+{
+  "name": "nau-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.6",
+    "@mui/material": "^5.10.8",
+    "axios": "^1.1.0",
+    "http-proxy-middleware": "^2.0.6",
+    "randomcolor": "^0.6.2",
+    "react": "^18.2.0",
+    "react-color": "^2.19.3",
+    "react-device-detect": "^2.2.2",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.1",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
