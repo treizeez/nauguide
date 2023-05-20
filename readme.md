@@ -1,4 +1,4 @@
-# National Aviation University of Kyiv Guide Web App
+# ✈️National Aviation University of Kyiv Guide Web App
 
 This web application is designed to provide a comprehensive guide for the university, offering various links to different university sources categorized by topics. It also includes a flexible admin mode that enables administrators to manage categories, create links, and customize the app's appearance. Regular users can add preferred links to their bookmarks, and the app also offers a dark theme option for better usability.
 
