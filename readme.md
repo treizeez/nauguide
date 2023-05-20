@@ -64,3 +64,14 @@ To run the National Aviation University of Kyiv Guide Web App locally, follow th
    ```
 
 6. Access the web app in your browser at http://localhost:3000. The server is at http://localhost:5000.
+
+## Admin mode screenshots
+
+![Admin auth](https://github.com/treizeez/nauguide/tree/main/screenshots/1.jpg)
+![Add new category](https://github.com/treizeez/nauguide/tree/main/screenshots/2.jpg)
+![Edit field](https://github.com/treizeez/nauguide/tree/main/screenshots/3.jpg)
+![Edit category](https://github.com/treizeez/nauguide/tree/main/screenshots/4.jpg)
+![Edit link](https://github.com/treizeez/nauguide/tree/main/screenshots/5.jpg)
+![Add link](https://github.com/treizeez/nauguide/tree/main/screenshots/6.jpg)
+![Add source](https://github.com/treizeez/nauguide/tree/main/screenshots/7.jpg)
+![Add field](https://github.com/treizeez/nauguide/tree/main/screenshots/8.jpg)
