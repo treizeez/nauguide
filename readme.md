@@ -67,7 +67,7 @@ To run the National Aviation University of Kyiv Guide Web App locally, follow th
 
 ## Admin mode screenshots
 
-![Admin auth](https://github.com/treizeez/nauguide/tree/main/screenshots/1.jpg)
+![Admin auth](https://github.com/treizeez/nauguide/tree/main/screenshots/1.jpg?raw=true)
 ![Add new category](https://github.com/treizeez/nauguide/tree/main/screenshots/2.jpg)
 ![Edit field](https://github.com/treizeez/nauguide/tree/main/screenshots/3.jpg)
 ![Edit category](https://github.com/treizeez/nauguide/tree/main/screenshots/4.jpg)
