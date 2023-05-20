@@ -2,7 +2,7 @@
 
 This web application is designed to provide a comprehensive guide for the university, offering various links to different university sources categorized by topics. It also includes a flexible admin mode that enables administrators to manage categories, create links, and customize the app's appearance. Regular users can add preferred links to their bookmarks, and the app also offers a dark theme option for better usability.
 
-## Features
+## 🌟Features
 
 - **Categorized Links:** The web app provides a collection of links to various university sources such as departments, courses, library resources, and more. These links are organized into different categories for easy navigation.
 
@@ -12,7 +12,7 @@ This web application is designed to provide a comprehensive guide for the univer
 
 - **Dark Theme:** The app offers a dark theme option to enhance readability and reduce eye strain, especially during nighttime usage.
 
-## Tech Stack
+## ⚙️Tech Stack
 
 The web app is built using the following technologies:
 
@@ -26,7 +26,7 @@ The web app is built using the following technologies:
 
 - **MongoDB:** A NoSQL database that stores data in a flexible, JSON-like format called BSON (Binary JSON). MongoDB is known for its scalability and ability to handle large amounts of data.
 
-## Installation
+## 🔧Installation
 
 To run the National Aviation University of Kyiv Guide Web App locally, follow these steps:
 
@@ -65,7 +65,7 @@ To run the National Aviation University of Kyiv Guide Web App locally, follow th
 
 6. Access the web app in your browser at http://localhost:3000. The server is at http://localhost:5000.
 
-## Admin mode screenshots
+## 🖼️Admin mode screenshots
 
 ![Admin auth](https://github.com/treizeez/nauguide/blob/main/screenshots/1.jpg?raw=true)
 ![Add new category](https://github.com/treizeez/nauguide/blob/main/screenshots/2.jpg?raw=true)
