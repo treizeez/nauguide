@@ -67,11 +67,11 @@ To run the National Aviation University of Kyiv Guide Web App locally, follow th
 
 ## Admin mode screenshots
 
-![Admin auth](https://github.com/treizeez/nauguide/tree/main/screenshots/1.jpg?raw=true)
-![Add new category](https://github.com/treizeez/nauguide/tree/main/screenshots/2.jpg)
-![Edit field](https://github.com/treizeez/nauguide/tree/main/screenshots/3.jpg)
-![Edit category](https://github.com/treizeez/nauguide/tree/main/screenshots/4.jpg)
-![Edit link](https://github.com/treizeez/nauguide/tree/main/screenshots/5.jpg)
-![Add link](https://github.com/treizeez/nauguide/tree/main/screenshots/6.jpg)
-![Add source](https://github.com/treizeez/nauguide/tree/main/screenshots/7.jpg)
-![Add field](https://github.com/treizeez/nauguide/tree/main/screenshots/8.jpg)
+![Admin auth](https://github.com/treizeez/nauguide/blob/main/screenshots/1.jpg?raw=true)
+![Add new category](https://github.com/treizeez/nauguide/blob/main/screenshots/2.jpg?raw=true)
+![Edit field](https://github.com/treizeez/nauguide/blob/main/screenshots/3.jpg?raw=true)
+![Edit category](https://github.com/treizeez/nauguide/blob/main/screenshots/4.jpg?raw=true)
+![Edit link](https://github.com/treizeez/nauguide/blob/main/screenshots/5.jpg?raw=true)
+![Add link](https://github.com/treizeez/nauguide/blob/main/screenshots/6.jpg?raw=true)
+![Add source](https://github.com/treizeez/nauguide/blob/main/screenshots/7.jpg?raw=true)
+![Add field](https://github.com/treizeez/nauguide/blob/main/screenshots/8.jpg?raw=true)
